@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Now Available</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>CalcuRace</string>
+			<key>image</key>
+			<string>CalcuRace</string>
+			<key>id</key>
+			<string>393205562</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Rainbow Recall</string>
+			<key>image</key>
+			<string>RainbowRecall</string>
+			<key>id</key>
+			<string>556384004</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Vanquish</string>
+			<key>image</key>
+			<string>Vanquish</string>
+			<key>id</key>
+			<string>605661371</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>iSoundFX</string>
+			<key>image</key>
+			<string>iSoundFX</string>
+			<key>id</key>
+			<string>616457031</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>TuneTamper</string>
+			<key>image</key>
+			<string>TuneTamper.png</string>
+			<key>id</key>
+			<string>630314381</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Treadmill Interval Running</string>
+			<key>image</key>
+			<string>TIR.png</string>
+			<key>id</key>
+			<string>650615263</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Treadmill Interval Running Lite</string>
+			<key>image</key>
+			<string>TIR_Lite.png</string>
+			<key>id</key>
+			<string>788434903</string>
+		</dict>
+	</array>
+	<key>Coming Soon</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>ShopShare</string>
+			<key>image</key>
+			<string>ShopShare</string>
+		</dict>
+	</array>
+</dict>
+</plist>
